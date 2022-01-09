@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chat_client1",
+    "\\chat_client2",
+    "\\chat_client3",
+    "\\chat_client4",
+    "\\chat_client5",
+    "\\chat_server1",
+    "\\chat_server2",
+    "\\chat_server3",
+    "\\chat_server4"
+  ],
+  "SelectedNode": "\\chat_server4\\chat_server4.c",
+  "PreviewInSolutionExplorer": false
+}
